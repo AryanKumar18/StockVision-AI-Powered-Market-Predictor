@@ -171,8 +171,8 @@ st.sidebar.markdown("### Areas of Interest")
 st.sidebar.info("""
 **Aryan Kumar**  
 
-• 📊 Tech Stack : 📌 Tech Stack: Python, Flask, React, PostgreSQL, Streamlit, AI/ML
-• 🌐 Future Aspirations : 🚀 Looking for : Software Developer Roles in AI, IoT, or Full-Stack Development
+• 📊 Tech Stack 
+• 🌐 Future Aspirations 
 • 📞 Contact: +91 7975527076
 • 📧 Email: aryankumar.30.2003@gmail.com
 """)
