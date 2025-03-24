@@ -16,7 +16,7 @@ st.title("Stock Prediction App")
 
 # Corrected stock tuple (flattened)
 stocks = [
-    "AAPL", "GOOG", "MSFT", "GME", "RELIANCE.BO", "INFY.BO", "JIOFIN.BO",
+    "AAPL", "GOOG", "MSFT", "GME", "RELIANCE.NS", "INFY.BO", "JIOFIN.BO",
     "TCS.BO", "HDFCBANK.BO", "ICICIBANK.BO", "HINDUNILVR.BO",
     "SBIN.BO", "BHARTIARTL.BO", "KOTAKBANK.BO", "BAJFINANCE.BO", "ITC.BO", "LICI.BO",
     "ADANIGREEN.BO", "ADANITRANS.BO", "ADANIPORTS.BO", "ADANIENT.BO", "LT.BO",
