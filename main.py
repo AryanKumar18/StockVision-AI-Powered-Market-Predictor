@@ -165,3 +165,14 @@ st.sidebar.info("""
 💼 Currently interning in AI Chatbots & IoT  
 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-36a7431aa/) | [GitHub](https://github.com/AryanKumar18)
 """)
+
+# About Section
+st.sidebar.markdown("### About")
+st.sidebar.info("""
+**Aryan Kumar**  
+                
+💻 Aspiring Software Developer | AI & IoT Enthusiast  
+📍 VIT Vellore | 8th Semester  
+💼 Currently interning in AI Chatbots & IoT  
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-36a7431aa/) | [GitHub](https://github.com/AryanKumar18)
+""")
