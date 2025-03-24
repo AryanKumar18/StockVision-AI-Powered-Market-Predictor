@@ -172,6 +172,7 @@ st.sidebar.info("""
 **Aryan Kumar**  
                 
 🛠 Tech Stack 
+
 📊 Future Aspirations  
 📞  Contact: +91 7975527076  
 📧 Email: aryankumar.30.2003@gmail.com
