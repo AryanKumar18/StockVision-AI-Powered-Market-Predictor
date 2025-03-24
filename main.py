@@ -166,13 +166,13 @@ st.sidebar.info("""
 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-36a7431aa/) | [GitHub](https://github.com/AryanKumar18)
 """)
 
-# About Section
+
 st.sidebar.markdown("### Areas of Interest")
 st.sidebar.info("""
 **Aryan Kumar**  
-
-• 📊 Tech Stack 
-• 🌐 Future Aspirations 
-• 📞 Contact: +91 7975527076
-• 📧 Email: aryankumar.30.2003@gmail.com
+                
+💻 Tech Stack 
+📍 Future Aspirations  
+💼 Contact: +91 7975527076  
+🔗 Email: aryankumar.30.2003@gmail.com
 """)
