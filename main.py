@@ -175,4 +175,4 @@ st.sidebar.info("""
 • 🌐 Future Aspirations : 🚀 Looking for : Software Developer Roles in AI, IoT, or Full-Stack Development
 • 📞 Contact: +91 7975527076
 • 📧 Email: aryankumar.30.2003@gmail.com
-
+""")
