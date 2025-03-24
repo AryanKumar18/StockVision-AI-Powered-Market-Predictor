@@ -167,12 +167,12 @@ st.sidebar.info("""
 """)
 
 # About Section
-st.sidebar.markdown("### About")
+st.sidebar.markdown("### Areas of Interest")
 st.sidebar.info("""
 **Aryan Kumar**  
-                
-💻 Aspiring Software Developer | AI & IoT Enthusiast  
-📍 VIT Vellore | 8th Semester  
-💼 Currently interning in AI Chatbots & IoT  
-🔗 [LinkedIn](https://www.linkedin.com/in/aryan-kumar-36a7431aa/) | [GitHub](https://github.com/AryanKumar18)
-""")
+
+• 📊 Tech Stack : 📌 Tech Stack: Python, Flask, React, PostgreSQL, Streamlit, AI/ML
+• 🌐 Future Aspirations : 🚀 Looking for : Software Developer Roles in AI, IoT, or Full-Stack Development
+• 📞 Contact: +91 7975527076
+• 📧 Email: aryankumar.30.2003@gmail.com
+
